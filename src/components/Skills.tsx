@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 import { FaCode, FaServer, FaReact, FaBrain, FaDatabase, FaNetworkWired, FaTools, FaGitAlt, FaChartBar } from 'react-icons/fa';
-import { SiTensorflow, SiPytorch, SiJavascript, SiNextdotjs, SiKeras, SiOpencv, SiHuggingface, SiLangchain, SiStreamlit, SiTableau, SiPostman, SiJupyter, SiKaggle, SiOpenai } from 'react-icons/si';
+import { SiTensorflow, SiPytorch, SiJavascript, SiKeras, SiOpencv, SiHuggingface, SiLangchain, SiStreamlit, SiTableau, SiPostman, SiJupyter, SiKaggle, SiOpenai } from 'react-icons/si';
 import { GiArtificialIntelligence } from 'react-icons/gi';
 import { BsGraphUp } from 'react-icons/bs';
 import { FaFileExcel } from "react-icons/fa";

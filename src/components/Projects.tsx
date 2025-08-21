@@ -2,7 +2,6 @@
 
 import { motion } from 'framer-motion';
 import { FaGithub } from 'react-icons/fa';
-import { useState, useEffect, useCallback } from 'react';
 
 // Project type definition
 interface Project {
