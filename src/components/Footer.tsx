@@ -47,7 +47,7 @@ export default function Footer() {
         {/* Bottom copyright text */}
         <div className="py-6 text-center">
           <p className="text-white opacity-80">
-            © {currentYear} Simran Achra. All rights reserved. Built with Next.js
+            © {currentYear} Simran Achra. All rights reserved.
           </p>
         </div>
       </div>
